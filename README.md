@@ -12,7 +12,7 @@
 
 ## Website
 Here is a link to the live website:
-[Password Generator](https://vtori37.github.io/password-generator/)
+[Taskmaster Pro](https://vtori37.github.io/taskmaster-pro/)
 
 
 ## Author
